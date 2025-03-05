@@ -5,10 +5,15 @@ This project focuses on the analysis and visualization of Electric Vehicles (EV)
 **Features**
 
 Sales Trend Analysis: Visualizations of EV sales trends over time, broken down by region, manufacturer, and model.
+
 Market Segmentation: Analysis of sales by customer demographics, such as age, gender, income, and location.
+
 Model Performance: Evaluation of the performance of different EV models, including comparison of features, pricing, and customer satisfaction.
+
 Geospatial Insights: Mapping of sales distribution to identify areas with high demand or underdeveloped markets for EVs.
+
 Fuel Economy & Emissions: Correlation of sales data with fuel economy metrics and environmental impact, showcasing the benefits of EV adoption.
+
 Pricing Analysis: Insights into pricing trends and their relationship with sales volume to identify price sensitivity in the market.
 
 **Tools & Technologies**
